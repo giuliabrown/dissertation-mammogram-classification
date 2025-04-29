@@ -5,6 +5,6 @@
 **/env
 **/venv
 #static/models/
-#static/uploads/
-#static/results/
+static/uploads/
+static/results/
 #*.pth
