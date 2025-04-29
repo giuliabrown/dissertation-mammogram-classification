@@ -12,3 +12,4 @@ opencv-python==4.11.0.86
 ipykernel==6.29.4
 pydicom==2.4.4
 tqdm==4.66.2
+scikit-learn==1.4.2
