@@ -7,4 +7,4 @@
 #static/models/
 #static/uploads/
 #static/results/
-#*.pth
+*.pth
