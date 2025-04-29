@@ -1,8 +1,9 @@
-__pycache__/
+**/__pycache__
 *.pyc
 *.ipynb_checkpoints
 .DS_Store
-.env
+**/env
+**/venv
 #static/models/
 #static/uploads/
 #static/results/
