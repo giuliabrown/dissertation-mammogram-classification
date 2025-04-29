@@ -6,4 +6,5 @@
 **/venv
 **/static/uploads/
 **/static/results/
+**/Data/Data png cropped
 #*.pth
