@@ -4,6 +4,7 @@ Dissertation Project: An interpretable deep learning pipeline for binary classif
 
 ## Project Structure
 
+```shell
 mammogram-ai-project/
 │
 ├── data_preprocessing/      # Preprocessing and dataset preparation
@@ -34,7 +35,7 @@ mammogram-ai-project/
 ├── README.md                # Documentation overview
 ├── .gitignore               # Ignored files (datasets, temp files, etc.)
 └── .gitattributes           # Git LFS configuration for model weights
-
+```
 
 ## Setting up the Project
 
