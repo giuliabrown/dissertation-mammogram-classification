@@ -41,11 +41,11 @@ mammogram-ai-project/
 
 ### Clone the repository
 ```shell
-git clone <repository-url>
+git clone https://github.com/giuliabrown/dissertation-mammogram-classification.git
 cd mammogram-ai-project
 ```
 
-### Setting up the virtual environment
+### Set up the virtual environment
 ```shell
 # Install virtualenv package
 pip install virtualenv
@@ -100,5 +100,5 @@ Models (`.pth`) are stored using Git Large File Storage (Git LFS). When cloning 
 
 ```shell
 git lfs install
-git clone <repository-url>
+git clone https://github.com/giuliabrown/dissertation-mammogram-classification.git
 ```
