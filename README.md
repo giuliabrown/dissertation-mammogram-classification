@@ -62,21 +62,20 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-
-## Data Setup
-
-### Downloading data
+### Download the data
 - Preprocessed PNG data: Download the preprocessed "Data png cropped" folder from the provided OneDrive link. Place it into the following location:
 `mammogram-ai-project/Data`
 - Original DICOM files: For some preprocessing notebooks (e.g., DICOM to PNG), you need to download the original mammogram dataset from [The Cancer Imaging Archive](https://www.cancerimagingarchive.net/collection/cbis-ddsm/).
 
 
-## Running the notebooks
+## Running the Project
+
+### Run the notebooks
 - Model Training: Modify paths in notebooks inside `model_training/` (originally configured for Kaggle). Ensure your data is placed correctly, then run these notebooks locally or upload them to Kaggle.
 - Model Testing and Grad-CAM: Ensure your models (`.pth` files) are available in `webapp/static/models`. Run notebooks in `model_testing/` and `gradcam_analysis/` for evaluation and visual explanations.
 
 
-### Running the webapp
+### Run the webapp
 
 Activate the virtual environment:
 
